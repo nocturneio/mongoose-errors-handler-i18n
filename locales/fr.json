@@ -1,0 +1,13 @@
+{
+  "error.required": "est requis",
+  "error.minlength": "doit être supérieur à %s caractères",
+  "error.maxlength": "doit être inférieur à %s caractères",
+  "error.model.value.regexp": "doit seulement contenir des lettres",
+  "error.model.value.enum": "doit être \"true\" or \"false\"",
+  "error.min": "doit être supérieur à %s",
+  "error.max": "doit être inférieur à %s",
+  "error.model.value.custom": "doit contenir seulement des lettres",
+  "error.unique": "existe déjà",
+  "err.required": "est requis",
+  "error.cast": "n'est pas valide"
+}

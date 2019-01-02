@@ -1,0 +1,40 @@
+{
+  "name": "mongoose-errors-handler-i18n",
+  "version": "0.1.1",
+  "description": "Express/Node.js module to create internationalized formatted errors in Mongoose. 🇫🇷🇺🇸",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nocturneio/mongoose-errors-handler-i18n.git"
+  },
+  "keywords": [
+    "mongoose",
+    "express",
+    "nodejs",
+    "errors",
+    "handler",
+    "i18n",
+    "internationnalization"
+  ],
+  "readmeFilename": "README.md",
+  "author": {
+    "name": "NocturneLab",
+    "email": "c.delouvencourt@nocturne.app",
+    "url": "https://github.com/nocturneio"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nocturneio/mongoose-errors-handler-i18n/issues"
+  },
+  "homepage": "https://github.com/nocturneio/mongoose-errors-handler-i18n#readme",
+  "devDependencies": {
+    "mongoose": "^4.2.8",
+    "i18n": "^0.5.0",
+    "express": "^4.13.3",
+    "should": "^7.1.1",
+    "supertest": "1.1.0"
+  }
+}
